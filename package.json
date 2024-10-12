@@ -1,0 +1,20 @@
+{
+  "name": "kappi-bomber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kappi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node kappi.js"
+  },
+  "keywords": [],
+  "author": "Kappi7581",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "faker": "^5.5.3",
+    "moment": "^2.29.4",
+    "readline-sync": "^1.4.10",
+    "request": "^2.88.2"
+  }
+}
